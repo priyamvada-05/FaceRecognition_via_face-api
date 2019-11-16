@@ -1,0 +1,15 @@
+.len{
+	height: 100%;
+}
+
+.new{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1{
+
+	font-family: 'Kingthings Pique'n'meex Regular';
+	cursor: default;
+	letter-spacing: 5px;
+}
