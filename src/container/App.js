@@ -4,6 +4,8 @@ import test_img from '../test_pic/test_img.jpeg'
 import { loadModels,getFaceDescription } from '../function_api/face_detect';
 import ImageDisplay from '../component/ImageDisplay/ImageDisplay'
 import WebCamCamera from '../component/WebCamCamera/WebCamCamera';
+import Particles from 'react-particles-js';
+import {Particle_constant} from './Particle_constant';
 
 
 class App extends Component {
@@ -49,6 +51,7 @@ class App extends Component {
 
     return (
       <div className=''>
+      <Particles className='particle' params={Particle_constant} />
         <h1 className='f2 tc'>Welcome to the face recognition</h1>
         <div className='container new'>
         <button className='f3 br3 bg-light-green pointer mr3' onClick={this.sayHello}>Picture</button>
