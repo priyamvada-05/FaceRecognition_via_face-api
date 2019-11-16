@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/FaceRecognition_via_face-api/static/css/main.60e6d85a.chunk.css",
-    "main.js": "/FaceRecognition_via_face-api/static/js/main.44040cce.chunk.js",
-    "main.js.map": "/FaceRecognition_via_face-api/static/js/main.44040cce.chunk.js.map",
+    "main.css": "/FaceRecognition_via_face-api/static/css/main.965e7e71.chunk.css",
+    "main.js": "/FaceRecognition_via_face-api/static/js/main.cf4d4b6e.chunk.js",
+    "main.js.map": "/FaceRecognition_via_face-api/static/js/main.cf4d4b6e.chunk.js.map",
     "runtime-main.js": "/FaceRecognition_via_face-api/static/js/runtime-main.c21e94d8.js",
     "runtime-main.js.map": "/FaceRecognition_via_face-api/static/js/runtime-main.c21e94d8.js.map",
     "static/css/2.eb45ad44.chunk.css": "/FaceRecognition_via_face-api/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.84a092d8.chunk.js": "/FaceRecognition_via_face-api/static/js/2.84a092d8.chunk.js",
-    "static/js/2.84a092d8.chunk.js.map": "/FaceRecognition_via_face-api/static/js/2.84a092d8.chunk.js.map",
+    "static/js/2.a9ef50e4.chunk.js": "/FaceRecognition_via_face-api/static/js/2.a9ef50e4.chunk.js",
+    "static/js/2.a9ef50e4.chunk.js.map": "/FaceRecognition_via_face-api/static/js/2.a9ef50e4.chunk.js.map",
     "index.html": "/FaceRecognition_via_face-api/index.html",
-    "precache-manifest.edba4daa6b82819e9b66ddb6b29e9dca.js": "/FaceRecognition_via_face-api/precache-manifest.edba4daa6b82819e9b66ddb6b29e9dca.js",
+    "precache-manifest.d9056d9351c953c40e33e3c4aefceaba.js": "/FaceRecognition_via_face-api/precache-manifest.d9056d9351c953c40e33e3c4aefceaba.js",
     "service-worker.js": "/FaceRecognition_via_face-api/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/FaceRecognition_via_face-api/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.60e6d85a.chunk.css.map": "/FaceRecognition_via_face-api/static/css/main.60e6d85a.chunk.css.map",
+    "static/css/main.965e7e71.chunk.css.map": "/FaceRecognition_via_face-api/static/css/main.965e7e71.chunk.css.map",
     "static/media/index.css": "/FaceRecognition_via_face-api/static/media/Kingthings Pique n meex.12f9bb12.woff",
     "static/media/test_img.jpeg": "/FaceRecognition_via_face-api/static/media/test_img.5301fbed.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.c21e94d8.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.84a092d8.chunk.js",
-    "static/css/main.60e6d85a.chunk.css",
-    "static/js/main.44040cce.chunk.js"
+    "static/js/2.a9ef50e4.chunk.js",
+    "static/css/main.965e7e71.chunk.css",
+    "static/js/main.cf4d4b6e.chunk.js"
   ]
 }
